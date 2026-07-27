@@ -53,9 +53,9 @@ Relationships were created between the Sales, Customers, and Suppliers tables us
 ---
 
 ## 📷 Dashboard Preview
-
-![Dashboard](Dashboard.jpg)
-
+<p align="center">
+<img src="Dashboard.jpg" width="900">
+</p>
 ---
 
 ## 📄 Project Report
