@@ -1,6 +1,9 @@
 # 📊 Sales Analysis Dashboard
 
-![Dashboard](Dashboard.jpg)
+## 📷 Dashboard Preview
+<p align="center">
+<img src="Dashboard.jpg" width="900">
+</p>
 
 ## 📌 Project Overview
 This project analyzes sales data using Microsoft Excel, Power Query, and Power Pivot.
@@ -20,6 +23,20 @@ The project includes:
 - Power Pivot
 - Pivot Tables
 - Pivot Charts
+
+---
+## 💡 Skills
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- Data Analysis
+- Dashboard Design
+- Data Visualization
+- Pivot Tables
+- Power Query
+- Power Pivot
+- Excel Charts
 
 ---
 
@@ -61,11 +78,6 @@ Relationships were created between the Sales, Customers, and Suppliers tables us
 - 💰 Mobile generated the highest profit with **6.49M**.
 - 📈 Sales remained relatively stable across all months.
 
----
-## 📷 Dashboard Preview
-<p align="center">
-<img src="Dashboard.jpg" width="900">
-</p>
 ---
 
 ## 📄 Project Report
