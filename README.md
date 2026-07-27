@@ -52,6 +52,14 @@ Relationships were created between the Sales, Customers, and Suppliers tables us
 
 ---
 
+## Business Insights
+
+- Mobile generated the highest sales.
+- Qatar recorded the highest sales among all countries.
+- Monthly sales remained relatively stable throughout the year.
+- Office category generated lower revenue compared to Mobile.
+
+---
 ## 📷 Dashboard Preview
 <p align="center">
 <img src="Dashboard.jpg" width="900">
