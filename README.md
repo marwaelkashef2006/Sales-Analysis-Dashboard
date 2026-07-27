@@ -1,5 +1,7 @@
 # 📊 Sales Analysis Dashboard
 
+![Dashboard](Dashboard.jpg)
+
 ## 📌 Project Overview
 This project analyzes sales data using Microsoft Excel, Power Query, and Power Pivot.
 
