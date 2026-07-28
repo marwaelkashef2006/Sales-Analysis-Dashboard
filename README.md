@@ -73,9 +73,9 @@ Relationships were created between the Sales, Customers, and Suppliers tables us
 
 ## 💡 Business Insights
 
-- 📱 Mobile generated the highest sales with **40.8M**.
-- 🌍 Qatar recorded the highest sales with **14.2M**.
-- 💰 Mobile generated the highest profit with **6.49M**.
+- 📱 Mobile generated the highest sales with **30.0M**.
+- 🌍 Qatar recorded the highest sales with **15.8M**.
+- 💰 Mobile generated the highest profit with **6.2M**.
 - 📈 Sales remained relatively stable across all months.
 
 ---
